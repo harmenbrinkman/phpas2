@@ -1,8 +1,8 @@
 {
-    "name": "tiamo/phpas2",
+    "name": "trimm/phpas2",
     "description": "PHPAS2 is a php-based implementation of the EDIINT AS2 standard",
     "type": "library",
-    "version": "2.0.1",
+    "version": "dev-master-test",
     "authors": [
         {
             "name": "Vladyslav K",
